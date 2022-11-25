@@ -30,7 +30,6 @@ $\textcolor{Purple}{\text{Linguagem de marcação}}$
 ##### Título Nível 5
 ###### Título Nível 6
 
-
 | coluna 1 | coluna 2 | coluna 3 |
 |---|---|---|
 |X|Y|Z|
@@ -45,5 +44,11 @@ $\textcolor{Purple}{\text{Linguagem de marcação}}$
 |:---:|:---:|:---:|
 |X|Y|Z|
 |A|B|C|
+
+:anger:
+
+$\nabla X \vec{E} = - \frac{\partial \ vec{B}}{\partial t} $
+
+
 
 
