@@ -47,7 +47,7 @@ $\textcolor{Purple}{\text{Linguagem de marcação}}$
 
 :anger:
 
-$\nabla X \vec{E} = - \frac{\partial \ vec{B}}{\partial t} $
+$$\nabla X \vec{E} = - \dfrac{\partial \vec{B}}{\partial t}$$
 
 
 
